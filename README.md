@@ -46,7 +46,6 @@ _This is a one-time setup step_
 * Allow App Engine to be created. This could take a few minutes
 
 Alternatively, look at the following documentation under "Before you begin". Steps 1 & 2
-https://cloud.google.com/appengine/docs/standard/go/building-app/creating-your-application
 
 ### Download the Cloud SDK
 _This is a one-time setup step_
